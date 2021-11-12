@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @anuar-bolatov
+- 👀 I’m interested in Fornt-End Development, UI/UX Design and User Research.
+- 🌱 I’m currently learning React.
+- 📫 You can reach me by visitng my website https://www.bolatov.com/
